@@ -1,4 +1,5 @@
 # CDP Assistant
+[Live Demo](https://gilded-croissant-66927f.netlify.app/)
 
 A modern, AI-powered chatbot designed to help users navigate and understand Customer Data Platforms (CDPs). The assistant provides guidance and documentation for Segment, mParticle, Lytics, and Zeotap platforms.
 
